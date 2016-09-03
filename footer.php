@@ -8,10 +8,10 @@
 
 	<footer class="footer">
       <div class="container">
-        <p class="text-muted text-center">&copy; Greens Prairie Elementary PTO, 2015-2016</p>
+        <p class="text-muted text-center">&copy; Cypress Grove Intermediate PTO, 2016</p>
 		<p class="text-muted text-center">
 			  <a href="http://www.csisd.org/">College Station ISD</a> |
-			  <a href="http://gp.csisd.org/">Greens Prairie Elementary</a>
+			  <a href="http://cg.csisd.org/">Cypress Grove Intermediate</a>
 		</p>
       </div>
     </footer>

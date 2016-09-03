@@ -43,16 +43,17 @@
 	<header class="container">
 
 		<div class="pull-right">
-			<a href="https://www.facebook.com/GreensprairiePTO">
+			<a href="https://www.facebook.com/CypressGrovePTO">
 				<img class="hidden-xs" src="<?php bloginfo('template_directory') ?>/img/FB-FindUsonFacebook-online-144.png" />
 				<img class="visible-xs-block" src="<?php bloginfo('template_directory') ?>/img/FB-FindUsonFacebook-online-72.png" />
 			</a>
 		</div>
 		<div class="site-logo">
-			<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
-				<img class="visible-md-block visible-lg-block visible-sm-block" src="<?php bloginfo('template_directory') ?>/img/logo-large.png" />
-				<img class="visible-xs-block" src="<?php bloginfo('template_directory') ?>/img/logo-stacked.png" />
+			<h1><a href="<?php echo esc_url( home_url( '/' ) ); ?>">
+			<img class="pull-left" height="128px" style="padding:8px" src="<?php bloginfo('template_directory') ?>/img/logo.png" />
+			<?php bloginfo( 'name' ); ?>
 			</a>
+			</h1>
 		</div>
 		
 		<div class="tagline h4 hidden-xs text-primary">Parents, Teachers, and Children&mdash;Working and Learning Together</div>
